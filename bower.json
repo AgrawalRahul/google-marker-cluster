@@ -1,0 +1,9 @@
+{
+  "name": "google-marker-cluster",
+  "version": "0.0.0",
+  "authors": [
+    "Rahul Agrawal <rahul.agrawal@hotcocoasoftware.com>"
+  ],
+  "main": "markercluster.js",
+  "license": "MIT"
+}
