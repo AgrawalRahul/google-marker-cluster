@@ -4,6 +4,6 @@
   "authors": [
     "Rahul Agrawal <rahul.agrawal@hotcocoasoftware.com>"
   ],
-  "main": "markercluster.js",
+  "main": "markerclusterer.js",
   "license": "MIT"
 }
